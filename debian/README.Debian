@@ -1,0 +1,16 @@
+Emacs Addons Metapackages
+=========================
+
+This file describes the binary metapackages available.
+
+
+emacs-editing-major-modes
+=========================
+
+This metapackage recommends all available Emacs major modes for file
+editing.  Installing this package should make Emacs recognize most
+popular known file formats for editing.  If this metapackage does not
+Recommend a package available in Debian that supplies a file-editing
+major mode, it is considered a bug.
+
+ -- Xiyue Deng <manphiz@gmail.com>, Sun, 20 Oct 2024 01:46:59 -0700
